@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/sls/static/css/main.2b25464a.chunk.css",
+    "main.js": "/sls/static/js/main.2e1e5903.chunk.js",
+    "main.js.map": "/sls/static/js/main.2e1e5903.chunk.js.map",
+    "runtime-main.js": "/sls/static/js/runtime-main.1c690d68.js",
+    "runtime-main.js.map": "/sls/static/js/runtime-main.1c690d68.js.map",
+    "static/js/2.f73031cd.chunk.js": "/sls/static/js/2.f73031cd.chunk.js",
+    "static/js/2.f73031cd.chunk.js.map": "/sls/static/js/2.f73031cd.chunk.js.map",
+    "index.html": "/sls/index.html",
+    "precache-manifest.1e73583aa79fbd02549004922df01e14.js": "/sls/precache-manifest.1e73583aa79fbd02549004922df01e14.js",
+    "service-worker.js": "/sls/service-worker.js",
+    "static/css/main.2b25464a.chunk.css.map": "/sls/static/css/main.2b25464a.chunk.css.map",
+    "static/js/2.f73031cd.chunk.js.LICENSE.txt": "/sls/static/js/2.f73031cd.chunk.js.LICENSE.txt",
+    "static/media/3IE7jsjOP9A.jpg": "/sls/static/media/3IE7jsjOP9A.7a83faa2.jpg",
+    "static/media/3vmgo8rjtWo.jpg": "/sls/static/media/3vmgo8rjtWo.99ea98ce.jpg",
+    "static/media/HhfZYsOcHE8.jpg": "/sls/static/media/HhfZYsOcHE8.593eb4f3.jpg",
+    "static/media/_kg_u8buT14.jpg": "/sls/static/media/_kg_u8buT14.151154ab.jpg",
+    "static/media/about.png": "/sls/static/media/about.a2d6c0e6.png",
+    "static/media/beats.png": "/sls/static/media/beats.419f9b2d.png",
+    "static/media/design.png": "/sls/static/media/design.212dd15e.png",
+    "static/media/App.sass": "/sls/static/media/furore.b9437c79.ttf",
+    "static/media/instagram.svg": "/sls/static/media/instagram.261662fe.svg",
+    "static/media/lQQ8nvOMMwc.jpg": "/sls/static/media/lQQ8nvOMMwc.909ef7f6.jpg",
+    "static/media/logo.png": "/sls/static/media/logo.43216f48.png",
+    "static/media/mixing.png": "/sls/static/media/mixing.00dd64df.png",
+    "static/media/music.png": "/sls/static/media/music.a15c34b5.png",
+    "static/media/production.png": "/sls/static/media/production.4355e9f8.png",
+    "static/media/reviews.png": "/sls/static/media/reviews.21b5ac6d.png",
+    "static/media/vk.svg": "/sls/static/media/vk.ceeaa913.svg",
+    "static/media/wNPu5dJ4v-s.jpg": "/sls/static/media/wNPu5dJ4v-s.8962d6a8.jpg",
+    "static/media/whWYG_O5Xs0.jpg": "/sls/static/media/whWYG_O5Xs0.ddfb9d42.jpg",
+    "static/media/zgoS28vceWg.jpg": "/sls/static/media/zgoS28vceWg.374b83b9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c690d68.js",
+    "static/js/2.f73031cd.chunk.js",
+    "static/css/main.2b25464a.chunk.css",
+    "static/js/main.2e1e5903.chunk.js"
+  ]
+}
